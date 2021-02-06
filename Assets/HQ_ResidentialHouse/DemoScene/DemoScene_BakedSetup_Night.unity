@@ -5755,7 +5755,7 @@ MonoBehaviour:
   wallClipLayerMask:
     serializedVersion: 2
     m_Bits: 4294967291
-  autoRepositionBehind: 1
+  autoRepositionBehind: 0
   autoRepositionTimeout: 2.5
   autoRepositionSpeed: 10
 --- !u!114 &268397363
