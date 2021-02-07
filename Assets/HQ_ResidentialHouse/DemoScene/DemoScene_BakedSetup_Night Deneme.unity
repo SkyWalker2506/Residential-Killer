@@ -30887,6 +30887,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: PlantB (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 4000010427538114, guid: 51f30c8d86fc27a4f90e4ab4548a7793, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.003
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000010427538114, guid: 51f30c8d86fc27a4f90e4ab4548a7793, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.037
+      objectReference: {fileID: 0}
     - target: {fileID: 4000011445322742, guid: 51f30c8d86fc27a4f90e4ab4548a7793, type: 3}
       propertyPath: m_RootOrder
       value: 205
